@@ -1,0 +1,13 @@
+body{
+    padding-top:100px;
+    margin:0;
+    padding-bottom:600px;
+    padding-left:100px;
+    padding-right:35px;
+    background-color:azure;
+}
+p{
+    font-family:Roboto,arial;
+    margin-top:6px;
+    margin-bottom:6px;
+}
